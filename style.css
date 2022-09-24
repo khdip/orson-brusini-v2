@@ -1,0 +1,50 @@
+* {margin:0;padding:0}
+body {font-family:'OpenSans' ,arial;font-size:20px;line-height:22px;background:#FFFFFF}
+.main {margin-left:318px;margin-right:356px;display:block;width:926px}
+.fix {overflow:hidden}
+
+.header {}
+.logo {float:left;width:308px}
+.mainmenu {float:right;width:618px}
+.find_call {font-size:17px}
+.find_call p {color:#bf2c37}
+.find {margin-left:220px}
+.find a {text-decoration:none;color:#bf2c37}
+.find a:hover {color:#000}
+.find_icon {float:left; margin-left:275px; margin-top:-25px;} 
+.call {float:right;margin-right:40px;margin-top:-20px}
+.menu {}
+.menu ul {margin:0;padding:0;list-style:none;margin-left:10px;margin-top:-8px}
+.menu li {display:block;float:left;padding:10px}
+.menu li a {font-size:13px;font-family:Garamond,arial;text-decoration:none;color:#5b5b5b}
+.menu li a:hover {color:#ff9c00}
+.slider {position:relative}
+.slider_text {position:absolute;text-align:center;line-height:70px;left:535px;top:120px}
+.slider_text h2 {font-size:66px;font-weight:normal;color:#bf2c37;font-family:Garamond}
+.slider_text h1 {font-size:66px;font-weight:bold;border-bottom:2px solid #bf2c37;color:#bf2c37;font-family:Garamond;padding-bottom:15px}
+.slider_image {width:100%}
+.contact_us {position:absolute;margin-left:1507px;margin-top:-270px;display:block;background:#FF9C00;padding:10px;-webkit-transform:rotate(-90deg);-moz-transform:rotate(-90deg);-ms-transform:rotate(-90deg);-o-transform:rotate(-90deg)}
+.contact_us p {font-family:Garamond,arial;font-size:19px;font-weight:bold}
+.contact_us p a {text-decoration:none;color:#ffffff}
+.contact_us p a:hover {color:#000}
+.linkedin {position:absolute;margin-left:1562px;margin-top:-165px}
+.rss {position:absolute;margin-left:1562px;margin-top:-125px}
+.maincontent {margin-top:40px}
+.content {float:left;width:601px}
+.content h2 {font-size:54px;font-family:Garamond,Arial;font-weight:normal;color:#bf2c37;font-style:italic;line-height:50px;margin-bottom:30px}
+.content p {color:#808285;font-size:20px;line-height:30px;margin-bottom:20px}
+.content h1 {font-family:Garamond,arial;font-size:38px;font-weight:normal;color:#4d4d4d;line-height:45px;margin-top:10px}
+.content h3 {text-transform:uppercase;font-size:20px;font-family:Garamond,arial;font-weight:bold;margin-top:70px;line-height:30px}
+.content h3 a {color:#ffffff;text-decoration:none;display:block;background:#FF9C00;padding:10px;width:180px}
+.content h3 a:hover {color:#000}
+.sidebar {float:right}
+.sidebar p {font-family:Garamond,arial;font-size:20px;font-weight:bold;width:265px;background:url(Images/more_about_us_bg.png)}
+.sidebar p a {display:block;color:#fff;text-decoration:none;padding:24px;text-align:center;margin-bottom:40px}
+.sidebar p a:hover {color:#000}
+.sidebar h2 {font-family:Garamond,arial;font-size:23px;font-weight:bold;color:#4d4d4f;background:#F6F6F6;padding:10px;margin-left:2px;margin-top:-20px;border-bottom:3px solid #fff}
+.sidebar ul {margin:0;padding:0;list-style:none}
+.sidebar ul li {display:block;padding:10px 30px;background:#F6F6F6;margin-left:2px}
+.sidebar ul li a {color:5d5d5d;text-decoration:none;font-family:Garamond,arial;font-size:23px}
+.sidebar ul li a:hover {padding-left:15px;color:#01A1DC}
+.footer {background:#FBFAFA;margin-top:70px}
+.footer p {text-align:center;font-size:14px;color:#6b6b6b}
